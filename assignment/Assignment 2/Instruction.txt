@@ -1,0 +1,60 @@
+Instruction:
+Setting up Python enviroment 
+1. Download Anaconda Python package for your platform(https://www.anaconda.com/)
+2. Install Anaconda graphical GUI
+3. open terminal
+	- install theano 
+		command:(conda install theano)
+	-Install the TensorFlow deep learning library 
+		command:(conda install -c conda-forge tensorflow)
+	-Install Keras 
+		command:(pip install keras)
+4. In terminal call, run python program
+	command: (python ml_assignment1.py)
+
+EXPLAIN CODE
+1. Create train.txt with data set and expexted output
+2. Create test.txt with data set
+3. Loading in data set to train and test on
+Code:
+	trainSet = genfromtxt(r"train.txt",delimiter=" ")
+	testSet = genfromtxt(r"test.txt",delimiter=" ")
+	X = trainSet[:,0:10] 
+	y = trainSet[:,10] 
+	Z = testSet[:,0:10] 
+
+4. Create Keras sequential model
+The model expects rows of data with 10 variables (the input_dim=10 argument)
+The first hidden layer has 64 nodes and uses the tanh activation function.
+The second hidden layer has 32 nodes and uses the tanh activation function.
+The output layer has one node and uses the sigmoid activation function.
+Code:
+	model = Sequential()
+	model.add(Dense(64, input_dim=10, activation='tanh'))
+	model.add(Dense(32, activation='tanh'))
+	model.add(Dense(1, activation='sigmoid'))
+
+5. Compile Keras Model
+We will define the optimizer as the efficient stochastic gradient descent algorithm “adam“
+Code:
+	model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
+
+6. We train from our trainning file
+Code:
+	model.fit(X, y, epochs=250, batch_size=10)
+
+7. We evaluate keras model
+Code:
+	_, accuracy = model.evaluate(X, y)
+
+8. Create prediciton model
+Code:
+	predictions = model.predict_classes(Z)
+
+9. Print Results to txt file
+Code:
+	file = open("labels.txt","w")
+	for i in range(10000):
+		print('%s => %d' % (Z[i].tolist(), predictions[i]))
+		file.write('%d\n' % (predictions[i]))
+	file.close() 

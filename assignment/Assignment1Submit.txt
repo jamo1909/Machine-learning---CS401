@@ -1,0 +1,181 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ==== SOURCE\
+\
+https://digital.hbs.edu/platform-rctom/submission/how-coca-cola-is-leveraging-machine-learning-in-the-hyper-competitive-cpg-industry/\
+\
+==== AGENT\
+\
+Coca Cola \
+\
+==== GOAL\
+\
+Coca Cola was trying to identify a larger market for Cherry Sprite and launched the product nationally.\
+\
+==== DATA\
+\
+Coca Cola collected the data from users for vast flavour combinations using interactive soda fountain dispensaries. Coca Cola use's Customer data.\
+\
+==== METHODS\
+\
+Coca Cola first used its soda dispensaries in 2009 in Restaurants and Customers could add a extra ingredients of different flavours to their favourite Coca Cola drinks. Coca Cola then started to collect the data of different flavour combinations and used machine learning to identify a larger market for Cherry sprite and launch the product nationally. Leveraging machine learning, the company was able to bring product development to the consumer level and make decisions based on their individual preferences. \
+\
+==== RESULTS\
+\
+As a result Coca Cola machine learning, the company was able to bring product development to the consumer level and make decisions based on their individual preferences.\
+The company is doing so by finding new patterns in foot traffic and demand to best locate its machines for maximum utility. Utilising machine learning to analyse purchasing behaviour and customer data, the vending machines will be able promote appropriate products for that area and offer discounts related to that specific unit. By leveraging this technology, Coca Cola is further enhancing the personalisation of its product placement.\
+\
+\
+==== COMMENTS\
+\
+I my opinion I found that Coca Cola are using Machine in a efficient manner. As which the data that is collect, they are able to build product's suited to the customers preference's. So with machine learning they are able to build their product around their customer. \
+\
+==== SOURCE\
+\
+https://bernardmarr.com/default.asp?contentID=1263\
+\
+==== AGENT\
+\
+American Express (AmEx)\
+\
+==== GOAL\
+\
+Two areas where this is evident are detecting fraud, and bringing merchants and customers closer together.\
+\
+==== DATA\
+\
+AmEx collected a variety of data sources, including card membership information, spending details, and merchant information.\
+ \
+==== METHODS\
+\
+On the merchant side, American Express is offering new online business trend analysis and industry peer benchmarking to help companies see how they\'92re doing compared to their competition. The data is anonymised, meaning any personally identifiable data is stripped out of the transactions, but merchants are able to see detailed trends within specific niche markets or customer segments.\
+\
+==== RESULTS\
+\
+AmEx is on the leading edge of integrating data and machine learning into its business model and practices to the benefit of the company and its end users. Its commitment to Big Data, analytics and machine learning is something any company can learn from. It\'92s also worth noting that other credit card companies such as MasterCard and Visa are applying similar technologies, and it looks as though data and analytics are at the forefront of their competitive forces. Whichever company will leverage data in the most effective way will win in this highly competitive environment.  \
+\
+==== COMMENTS\
+\
+In my opinion I found that AmEx are using machine learning very effectively by benefiting both consumers and merchants.\
+\
+==== SOURCE\
+\
+https://www.bernardmarr.com/default.asp?contentID=1090\
+\
+==== AGENT\
+\
+Google's DeepMind and London's Morrfields Eye hospital\
+\
+==== GOAL\
+\
+The goal of this machine learning is to training itself to read scans and spot early signs which may indicate the onset of degenerative eye conditions.\
+\
+==== DATA\
+\
+DeepMind has been given access to one million images from historical eye scans, along with associated (anonymised) patient data. It is training itself to read the scans and spot early signs which may indicate the onset of degenerative eye conditions.\
+\
+==== METHODS\
+\
+Londons Moorfields Eye Hospital gave Deepmind access to one million image of historical eye scans, along with associated(anonymised) patient data. The information was then used to train itself to read the scans and spot early signs which may indicate the onset of degenerative eye conditions. \
+\
+\
+\
+==== RESULTS\
+\
+DeepMind Health would move to Google Health so that the app can grow and support more doctors to deliver faster, better care to patients.\
+ DeepMind has also been implemented across numerous healthcare projects, such as a collaboration with UCL\'92s radiotherapy department to reduce the amount of time it takes to plan treatments. The group has said that by unleashing machine learning on the process of mapping a patient\'92s head and neck area, the time taken to create treatment plans for these complicated procedures could be reduced from four hours to around one hour.\
+\
+==== COMMENTS\
+\
+In my opinion I found the article was short but contained all the information to describe what google was using google's deepmind for. It covered all the relevant information to understand what deep mind was being training on.\
+\
+==== SOURCE\
+\
+https://digital.hbs.edu/platform-rctom/submission/john-deere-bringing-ai-to-agriculture/\
+\
+==== AGENT\
+\
+John Deere\
+\
+==== GOAL\
+\
+Company\'92s main technology focus is on what it calls \'93precision agriculture\'94, which incorporates technology into farming processes to increase productivity and yield\
+\
+==== DATA\
+\
+John Deere acquired a company called Blue River which used computer vision to reduce the use of herbicides by spring only the places with weeds.\
+\
+==== METHODS\
+\
+John Deere acquired Blue River who used Computer Vision to location the location were weeds were present. Then the computer vision was used a data to teach the machine learning to find places were weeds where present and machines could use herbicides. \
+\
+==== RESULTS\
+\
+This resulted in John Deere developing a see-and-spray technology for herbicide machines. John Deere plan is to deploy this solution at scale. Also first to deploy their technology  to cotton farmers and expand to soybean farmers after.\
+\
+==== COMMENTS\
+\
+This article was very interesting with explained all aspects of John Deeres Machine learning venture including the acquiring of the Company Blue River.\
+\
+==== SOURCE\
+\
+https://becominghuman.ai/how-netflix-uses-ai-and-machine-learning-a087614630fe\
+\
+==== AGENT\
+\
+Netflix\
+\
+==== GOAL\
+\
+Customise movie thumbnails for users. image thumbnail that are within Netflix\'92s control that can tweak to increase those click rates.\
+\
+==== DATA\
+\
+Netflix collected customers movie prefernece and choices, collect which thumbnail's the customer mostly clicked on.  \
+\
+==== METHODS\
+\
+Given how important the thumbnail was to a user\'92s decision to watch something. Netflix started to optimised and personalise the customers experience. And present thumbnail that are customised and personalised to customers based off their individual preference. Netflix want to provide a healthy mix of the familiar with the unexpected but also accurately portray content to the user so they aren\'92t improperly misled.\
+\
+==== RESULTS\
+\
+With Netflix making personalised thumbnails it increase clicks and the number of people viewing certain content.\
+\
+==== COMMENTS\
+\
+I found this article very valuable, as the article was written as unbiased view of Netflix  use of machine learning to filter different types of context to user's which could be misleading. \
+\
+==== SOURCE\
+\
+https://www.bernardmarr.com/default.asp?contentID=1396\
+\
+==== AGENT\
+\
+Instagram\
+\
+==== GOAL\
+\
+To provide business intel and insight into human behavior\
+\
+==== DATA\
+\
+Instagram collected information of its 800 million users and 70 million photos that are uploaded every day.\
+\
+==== METHODS\
+\
+Instagram extract customer insights from it. By assessing the search preferences and engagement insights from its users, Instagram can sell advertising to companies who want to reach that particular customer profile and who might be most interested in receiving a particular marketing message. Instagram gives analytics information to help target advertising based on what people like, who they follow and interact with and what they save.\
+\
+==== RESULTS\
+\
+Instagram use's this information for analytics for company for advertising to target users.\
+\
+==== COMMENTS\
+\
+I found that this article was a great insight to see what instagram is really tracking on you and what information they are using to target you for advertising.\
+\
+}

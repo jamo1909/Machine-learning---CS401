@@ -1,0 +1,30 @@
+==== SOURCE
+
+bibliographic citation or URL with pointer to source of this information
+
+==== AGENT
+
+Who did the machine learning? (E.g., Google Brain, Prof Jane Baz’s group
+at University of North Hoople, etc.)
+
+
+==== GOAL
+
+What were they trying to do?
+
+==== DATA
+
+Where did they get their data? What did it look like?
+
+==== METHODS
+
+What did they actually do?
+
+==== RESULTS
+
+How did it go for them?
+
+==== COMMENTS
+
+Your own personal comments and thoughts etc.
+Include things about the deficiency of the story as written if you’re feeling snarky.
